@@ -5,6 +5,7 @@
 | Project Name | Reposetory |
 | ------ | ------ |
 | Street Foods - Major Project 3 | https://github.com/AR8Stefan/CFA-Project3-Streetfoods-React |
+| RRA - Major Project 2 | https://github.com/AR8Stefan/CFA-Project2-RRA |
 | My Portfolio - Major Project 1 | https://github.com/AR8Stefan/my-portfolio|
 | Lets Get Git - Hack-a-thon | https://github.com/StrannikAD/CFA-LetsGetGit
 | Trent Tracker | https://github.com/AR8Stefan/CFA-TrentTracker-Project  |
