@@ -4,6 +4,7 @@
 
 | Project Name | Reposetory |
 | ------ | ------ |
+| Class Challenges | https://github.com/AR8Stefan/Intern-Project |
 | Street Foods - Major Project 3 | https://github.com/AR8Stefan/CFA-Project3-Streetfoods-React |
 | RRA - Major Project 2 | https://github.com/AR8Stefan/CFA-Project2-RRA |
 | My Portfolio - Major Project 1 | https://github.com/AR8Stefan/my-portfolio|
