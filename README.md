@@ -17,6 +17,7 @@
 | Project Name | Reposetory |
 | ------ | ------ |
 | Ruby The Hard Way | https://github.com/AR8Stefan/Personal-RubyTheHardWay |
+| Portfolio v2 | https://github.com/AR8Stefan/Portfolio-Version2 |
 
 #### Other Projects
 
