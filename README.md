@@ -1,5 +1,12 @@
 ### My Project Directory
 
+#### Personal Projects
+
+| Project Name | Reposetory |
+| ------ | ------ |
+| Ruby The Hard Way | https://github.com/AR8Stefan/Personal-RubyTheHardWay |
+| Portfolio v2 | https://github.com/AR8Stefan/Portfolio-Version2 |
+
 #### CFA - Coder Academy Projects
 
 | Project Name | Reposetory |
@@ -11,13 +18,6 @@
 | Lets Get Git - Hack-a-thon | https://github.com/StrannikAD/CFA-LetsGetGit
 | Trent Tracker | https://github.com/AR8Stefan/CFA-TrentTracker-Project  |
 | Bank App | https://github.com/AR8Stefan/CFA-BankApp-v1 |
-
-#### Personal Projects
-
-| Project Name | Reposetory |
-| ------ | ------ |
-| Ruby The Hard Way | https://github.com/AR8Stefan/Personal-RubyTheHardWay |
-| Portfolio v2 | https://github.com/AR8Stefan/Portfolio-Version2 |
 
 #### Other Projects
 
