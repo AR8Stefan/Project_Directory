@@ -7,6 +7,7 @@
 | Portfolio v2 | https://github.com/AR8Stefan/Portfolio-Version2 |
 | Street Foods v2 | https://github.com/AR8Stefan/StreetFoodsV2 |
 | Ruby The Hard Way | https://github.com/AR8Stefan/Personal-RubyTheHardWay |
+| My SCSS Environment - Setup Guide | https://github.com/AR8Stefan/Setting-up-my-Sass-Environment |
 
 #### CFA - Coder Academy Projects
 
