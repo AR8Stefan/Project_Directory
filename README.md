@@ -1,6 +1,6 @@
 ### My Project Directory
 
-#### Personal Projects
+#### Personal
 
 | Project Name | Reposetory |
 | ------ | ------ |
@@ -8,6 +8,8 @@
 | Street Foods v2 | https://github.com/AR8Stefan/StreetFoodsV2 |
 | Ruby The Hard Way | https://github.com/AR8Stefan/Personal-RubyTheHardWay |
 | My SCSS Environment - Setup Guide | https://github.com/AR8Stefan/Setting-up-my-Sass-Environment |
+| React S/CSS and Bootstrap Documentation | https://github.com/AR8Stefan/React-Style-Setup/tree/master |
+| Street Foods using React.JS | https://github.com/AR8Stefan/street-foods-react |
 
 #### CFA - Coder Academy Projects
 
