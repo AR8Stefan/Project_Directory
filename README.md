@@ -4,6 +4,7 @@
 
 | Project Name | Reposetory |
 | ------ | ------ |
+| Discord Chat Bot | https://github.com/AR8Stefan/Discord_Chat_Bot |
 | Tip Calculator | https://codepen.io/Stefan_K/pen/BMwWLq |
 | Portfolio v2 | https://github.com/AR8Stefan/Portfolio-Version2 |
 | Street Foods v2 | https://github.com/AR8Stefan/StreetFoodsV2 |
