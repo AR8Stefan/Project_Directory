@@ -34,3 +34,4 @@
 | TreeHouse Name Length Challenge | https://github.com/AR8Stefan/TTH_Challenge-Name-Length |
 | Treehouse me.js Workshop | https://github.com/AR8Stefan/playing-with-me.js-player |
 | Treehouse RSVP App. | https://github.com/AR8Stefan/RSVPapplication |
+| TH Scoreboard App. | https://github.com/AR8Stefan/scoreboard-continued |
