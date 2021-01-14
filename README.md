@@ -5,6 +5,7 @@
 | Project Name | Reposetory |
 | ------ | ------ |
 | My Portfolio - React & Sanity.io | https://stefanpiatkov.netlify.app/ |
+| Lottie animations | https://codepen.io/Stefan_K/pen/ExgOdEe |
 | Basic Minesweeper Game | https://github.com/AR8Stefan/Minesweeper |
 | Discord Chat Bot | https://github.com/AR8Stefan/Discord_Chat_Bot |
 | Tip Calculator | https://codepen.io/Stefan_K/pen/BMwWLq |
